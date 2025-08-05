@@ -5,4 +5,6 @@ This is for testing diff <br>
 ---
 ### git-rebase-practice-01
 Patch A 
-Patch B
+Patch B - fix 
+something 
+I want to split
