@@ -5,3 +5,4 @@ This is for testing diff <br>
 ---
 ### git-rebase-practice-01
 Patch A 
+Patch B
